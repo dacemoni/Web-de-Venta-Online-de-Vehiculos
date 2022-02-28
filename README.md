@@ -1,8 +1,11 @@
 # Web de Venta Online de Vehículos
 
 Proyecto realizado por: 
+
 David César Moro Nieto 
+
 Victor
+
 Gabriel Pelegri Riis 
 
 Proyecto ubicado en: https://github.com/dacemoni/Web-de-Venta-Online-de-Vehiculos
