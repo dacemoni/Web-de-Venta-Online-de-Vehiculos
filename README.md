@@ -1,4 +1,12 @@
 # Web de Venta Online de Vehículos
+
+Proyecto realizado por: 
+David César Moro Nieto 
+Victor
+Gabriel Pelegri Riis 
+
+Proyecto ubicado en: https://github.com/dacemoni/Web-de-Venta-Online-de-Vehiculos
+
 El sistema que vamos a diseñar es un sitio web de venta online de vehículos como, por ejemplo, automóviles o motocicletas. Este sistema autoriza distintas operaciones como la visualización de un catálogo, la recogida de un pedido, la gestión y el seguimiento de los clientes. Además estará accesible bajo la forma de un servicio web.   Además de la venta de vehículos dispone de un apartado de hidroimpresión donde se realizan distintas operaciones de visualización de un catálogo, la recogida de un pedido, la gestión y el seguimiento de los clientes. Además estará accesible bajo la forma de un servicio web.   También dispone de un servicio de chapa y pintura donde se realizarán las distintas operaciones de cita previa, seguimiento del estado del vehículo y servicio de postventa. Este servicio estará accesible bajo la forma de servicio web.
 
 
