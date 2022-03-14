@@ -4,7 +4,7 @@ Proyecto realizado por:
 
 David César Moro Nieto 
 
-Victor
+Victor Navarro Carrillo
 
 Gabriel Pelegri Riis 
 
