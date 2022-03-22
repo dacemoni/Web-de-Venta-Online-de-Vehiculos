@@ -1,3 +1,11 @@
+package main.Fabrica;
+
+import main.Automovil.Automovil;
+import main.Automovil.AutomovilGasolina;
+import main.Scooter.Scooter;
+//import main.Scooter.ScooterElectricidad;
+import main.Scooter.ScooterGasolina;
+
 public class FabricaVehiculoGasolina implements FabricaVehiculo  
 {  
   public Automovil creaAutomovil(String modelo, String  
