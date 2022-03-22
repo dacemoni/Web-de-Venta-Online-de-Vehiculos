@@ -1,3 +1,5 @@
+package main.Scooter;
+
 public class ScooterElectricidad extends Scooter  
 {  
   public ScooterElectricidad(String modelo, String color,  
