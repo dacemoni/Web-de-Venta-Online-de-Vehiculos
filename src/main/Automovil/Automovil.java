@@ -1,3 +1,5 @@
+package main.Automovil;
+
 public abstract class Automovil  
 {  
   protected String modelo;  

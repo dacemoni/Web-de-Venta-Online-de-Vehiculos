@@ -1,3 +1,5 @@
+package main.Automovil;
+
 public class AutomovilElectricidad extends Automovil  
 {  
   public AutomovilElectricidad(String modelo, String  
