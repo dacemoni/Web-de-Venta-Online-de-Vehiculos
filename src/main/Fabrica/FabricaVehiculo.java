@@ -1,6 +1,8 @@
 package main.Fabrica;
 
-import Main.Scooter.Scooter;
+import main.Automovil.Automovil;
+
+import main.Scooter.Scooter;
 
 public interface FabricaVehiculo  
 
