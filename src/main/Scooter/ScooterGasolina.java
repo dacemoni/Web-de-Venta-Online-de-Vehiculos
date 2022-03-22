@@ -1,3 +1,5 @@
+package main.Scooter;
+
 public class ScooterGasolina extends Scooter  
 {  
   public ScooterGasolina(String modelo, String color,  

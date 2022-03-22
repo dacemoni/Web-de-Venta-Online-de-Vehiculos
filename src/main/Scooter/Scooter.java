@@ -1,3 +1,5 @@
+package main.Scooter;
+
   
   
 public abstract class Scooter  
