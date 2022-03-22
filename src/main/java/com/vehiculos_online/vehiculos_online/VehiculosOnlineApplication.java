@@ -1,14 +1,13 @@
 package com.vehiculos_online.vehiculos_online;
 import java.util.Scanner;
-import Automovil.AutomovilElectricidad;
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+import main.Automovil.AutomovilElectricidad;
 
-@SpringBootApplication
+
+//@SpringBootApplication
 public class VehiculosOnlineApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(VehiculosOnlineApplication.class, args);
+		//SpringApplication.run(VehiculosOnlineApplication.class, args);
 		 int nAutos = 3;  
          int nScooters = 2;  
   
