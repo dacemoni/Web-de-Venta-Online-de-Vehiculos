@@ -1,5 +1,5 @@
 package com.vehiculos_online.vehiculos_online;
-import Fabrica.FabricaVehiculo;
+
 import java.util.Scanner;
 
 import org.springframework.boot.SpringApplication;
@@ -16,7 +16,7 @@ public class VehiculosOnlineApplication {
  
     Scanner reader = new Scanner(System.in);  
     FabricaVehiculo fabrica;  
-    Automovil[] autos = new Automovil[nAutos];  
+    Automovil autos = new Automovil(nAutos);  
     Scooter[] scooters = new Scooter[nScooters];  
     System.out.print("Desea utilizar " +  
       "vehiculos electricos (1) o a gasolina (2):");  
