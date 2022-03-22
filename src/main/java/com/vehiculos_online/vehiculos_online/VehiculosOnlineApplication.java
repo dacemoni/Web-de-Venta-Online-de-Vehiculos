@@ -1,6 +1,6 @@
 package com.vehiculos_online.vehiculos_online;
 import java.util.Scanner;
-
+import Automovil.AutomovilElectricidad;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

@@ -8,6 +8,14 @@
 		<version>2.6.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+	<build>
+    <sourceDirectory>${basedir}/src/main/Automovil</sourceDirectory>
+    <scriptSourceDirectory>${basedir}/src/main/scripts</scriptSourceDirectory>
+    <testSourceDirectory>${basedir}/src/test/java</testSourceDirectory>
+    <outputDirectory>${basedir}/target/classes</outputDirectory>
+    <testOutputDirectory>${basedir}/target/test-classes</testOutputDirectory>
+    
+  </build>
 	<groupId>com.vehiculos_online</groupId>
 	<artifactId>vehiculos_online</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
