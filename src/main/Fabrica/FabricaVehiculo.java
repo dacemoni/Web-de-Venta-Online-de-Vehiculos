@@ -1,4 +1,6 @@
-include scooter;
+package main.Fabrica;
+
+include Scooter.Scooter;
 
 public interface FabricaVehiculo  
 
