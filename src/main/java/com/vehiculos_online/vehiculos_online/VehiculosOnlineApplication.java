@@ -1,5 +1,7 @@
 package com.vehiculos_online.vehiculos_online;
 
+import java.util.Scanner;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -8,11 +10,10 @@ public class VehiculosOnlineApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(VehiculosOnlineApplication.class, args);
-		public static int nAutos = 3;  
-  public static int nScooters = 2;  
+		 int nAutos = 3;  
+         int nScooters = 2;  
   
-  public static void main(String[] args)  
-  {  
+ 
     Scanner reader = new Scanner(System.in);  
     FabricaVehiculo fabrica;  
     Automovil[] autos = new Automovil[nAutos];  
