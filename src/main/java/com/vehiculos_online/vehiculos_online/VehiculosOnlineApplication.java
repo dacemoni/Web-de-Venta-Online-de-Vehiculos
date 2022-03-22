@@ -1,5 +1,5 @@
 package com.vehiculos_online.vehiculos_online;
-
+import Fabrica.FabricaVehiculo;
 import java.util.Scanner;
 
 import org.springframework.boot.SpringApplication;
