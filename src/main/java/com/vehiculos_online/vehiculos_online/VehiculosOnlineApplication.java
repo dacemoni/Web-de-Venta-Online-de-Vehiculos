@@ -1,9 +1,4 @@
 package com.vehiculos_online.vehiculos_online;
-<<<<<<< HEAD
-
-=======
-import main.Fabrica.FabricaVehiculo;
->>>>>>> 639f1726f991f1ad7b4c31a40a38018dfebeeae4
 import java.util.Scanner;
 
 import org.springframework.boot.SpringApplication;
